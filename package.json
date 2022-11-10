@@ -1,0 +1,15 @@
+{
+  "name": "furbot-api-docs",
+  "version": "1.0.0",
+  "description": "FurBot-API Documents",
+  "main": "app.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "author": "colour93",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.53"
+  }
+}
