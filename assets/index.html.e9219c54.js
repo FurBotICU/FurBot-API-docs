@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-8daa1a0e","path":"/","title":"简介","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[{"level":2,"title":"前面的区域，以后再来探索吧！","slug":"前面的区域-以后再来探索吧","link":"#前面的区域-以后再来探索吧","children":[]}],"git":{"updatedTime":1668070538000,"contributors":[{"name":"玖叁","email":"colour_93@furry.top","commits":1}]},"filePathRelative":"README.md"}');export{e as data};
